@@ -1,5 +1,9 @@
 # Playstore version tracker
 
+## Deploy to AWS Lambda
+
+TBD. For now, follow this guide: https://docs.aws.amazon.com/lambda/latest/dg/python-package.html
+
 ## Usage
 
 With no package (use default):
